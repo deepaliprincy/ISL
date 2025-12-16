@@ -1,0 +1,7 @@
+streamlit==1.52.1
+numpy
+pandas
+pillow
+opencv-python-headless
+mediapipe
+tensorflow==2.13.1
