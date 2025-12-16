@@ -3,5 +3,5 @@ numpy
 pandas
 pillow
 opencv-python-headless
-mediapipe
+mediapipe==0.10.30
 tensorflow==2.13.1
